@@ -22,10 +22,15 @@ C:\Users\ayse.leke\Downloads\AxonServer-4.5.11>java -jar axonserver.jar
 --pom.xml will be added into--
 
 <dependency>
+	
 	<groupId>org.axonframework</groupId>
+	
 	<artifactId>axon-spring-boot-starter</artifactId>
+	
 	<version>4.5.9</version>
+	
 </dependency>
+
 
 
 
