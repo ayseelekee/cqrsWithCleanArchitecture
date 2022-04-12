@@ -1,7 +1,7 @@
 # cqrsWithCleanArchitecture
 It is designed with CQRS architecture.
 
---for connection to Axon Dashboard--
+--for connection to the Axon Dashboard--
 
 http://localhost:8024/
 
