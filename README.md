@@ -11,7 +11,8 @@ http://localhost:8024/
 http://localhost:8080/api/accounttypes/add
 
 
---if the file(axonserver.jar) still shows as rar--
+--If the file(axonserver.jar) still shows as rar--
+--Type the following on the command screen--
 
 C:\Users\ayse.leke>cd C:\Users\ayse.leke\Downloads\AxonServer-4.5.11
 
